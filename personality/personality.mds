@@ -1,0 +1,17 @@
+<Combine name="personality" fileversion="2.0">
+  <Configurations active="Debug">
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="personality" configuration="Debug" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="personality" configuration="Release" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="personality" single="True">
+    <Execute type="None" entry="personality" />
+  </StartMode>
+  <DeployTargets />
+  <Entries>
+    <Entry filename="./personality.mdp" />
+  </Entries>
+</Combine>

@@ -1,0 +1,21 @@
+<Combine name="cuteagi" fileversion="2.0">
+  <Configurations active="Debug">
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="cuteagi" configuration="Debug" />
+      <Entry build="True" name="utilities" configuration="Debug" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="cuteagi" configuration="Release" />
+      <Entry build="True" name="utilities" configuration="Release" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="cuteagi" single="True">
+    <Execute type="None" entry="cuteagi" />
+    <Execute type="None" entry="cuteagi" />
+    <Execute type="None" entry="utilities" />
+  </StartMode>
+  <Entries>
+    <Entry filename="./cuteagi.mdp" />
+    <Entry filename="../utilities/utilities.mdp" />
+  </Entries>
+</Combine>

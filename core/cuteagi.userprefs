@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<UserCombinePreferences filename="/home/motters/develop/cuteagi/cuteagi.mds">
+  <Files>
+    <File filename="Welcome" />
+    <File filename="./agent.cs" />
+    <File filename="./AssemblyInfo.cs" />
+    <File filename="./atom.cs" />
+    <File filename="./atomcollection.cs" />
+    <File filename="./link.cs" />
+    <File filename="./node.cs" />
+    <File filename="./truthvalue.cs" />
+    <File filename="./agents/agentActivationSpreading.cs" />
+  </Files>
+  <Views>
+    <ViewMemento Id="MonoDevelop.Ide.Gui.Pads.ProjectPad">
+      <TreeView>
+        <Node expanded="True">
+          <Node name="cuteagi" expanded="True">
+            <Node name="agents" expanded="True">
+              <Node name="agentActivationSpreading.cs" expanded="False" selected="True" />
+            </Node>
+          </Node>
+          <Node name="utilities" expanded="True" />
+        </Node>
+      </TreeView>
+    </ViewMemento>
+    <ViewMemento Id="MonoDevelop.Ide.Gui.Pads.ClassPad">
+      <TreeView>
+        <Node expanded="True">
+          <Node name="utilities" expanded="True" />
+        </Node>
+      </TreeView>
+    </ViewMemento>
+    <ViewMemento Id="MonoQuery.DatabasePad">
+      <TreeView>
+        <Node expanded="False" />
+      </TreeView>
+    </ViewMemento>
+    <ViewMemento Id="MonoDevelop.NUnit.TestPad">
+      <TreeView>
+        <Node expanded="False" />
+      </TreeView>
+    </ViewMemento>
+  </Views>
+  <Properties>
+    <Properties>
+      <Property key="ActiveConfiguration" value="Debug" />
+      <Property key="ActiveWindow" value="/home/motters/develop/cuteagi/agents/agentActivationSpreading.cs" />
+    </Properties>
+  </Properties>
+</UserCombinePreferences>

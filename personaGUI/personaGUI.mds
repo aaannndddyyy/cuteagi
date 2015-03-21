@@ -1,0 +1,35 @@
+<Combine name="personaGUI" fileversion="2.0">
+  <Configurations active="Debug">
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="personaGUI" configuration="Debug" />
+      <Entry build="True" name="personality" configuration="Debug" />
+      <Entry build="True" name="cuteagi" configuration="Debug" />
+      <Entry build="True" name="personality" configuration="Debug" />
+      <Entry build="True" name="utilities" configuration="Debug" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="personaGUI" configuration="Release" />
+      <Entry build="True" name="personality" configuration="Release" />
+      <Entry build="True" name="cuteagi" configuration="Release" />
+      <Entry build="True" name="personality" configuration="Release" />
+      <Entry build="True" name="utilities" configuration="Release" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="personaGUI" single="True">
+    <Execute type="None" entry="personaGUI" />
+    <Execute type="None" entry="agi" />
+    <Execute type="None" entry="cuteagi" />
+    <Execute type="None" entry="cuteagi" />
+    <Execute type="None" entry="personality" />
+    <Execute type="None" entry="personality" />
+    <Execute type="None" entry="cuteagi" />
+    <Execute type="None" entry="personality" />
+    <Execute type="None" entry="utilities" />
+  </StartMode>
+  <Entries>
+    <Entry filename="./personaGUI.mdp" />
+    <Entry filename="../core/cuteagi.mdp" />
+    <Entry filename="../personality/personality.mdp" />
+    <Entry filename="../utilities/utilities.mdp" />
+  </Entries>
+</Combine>

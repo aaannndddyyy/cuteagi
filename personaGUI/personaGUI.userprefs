@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<UserCombinePreferences filename="/home/motters/develop/cuteagi/personaGUI/personaGUI.mds">
+  <Files>
+    <File filename="Welcome" />
+    <File filename="../../sentience/applications/mapping/frmMapping.cs" />
+    <File filename="../../sentience/applications/mapping/frmMapping.Designer.cs" />
+    <File filename="../../sentience/applications/mapping/Program.cs" />
+    <File filename="../../persona/MyClass.cs" />
+    <File filename="../../datamatrixDetection/MainWindow.cs" />
+    <File filename="../core/collections/collectionTests.cs" />
+    <File filename="../core/agents/agentTests.cs" />
+    <File filename="./MainWindow.cs" />
+    <File filename="../core/nodes/nodeObjectPhysical.cs" />
+    <File filename="../core/nodes/nodeSpatioTemporal.cs" />
+    <File filename="../core/nodes/nodeSpatial.cs" />
+    <File filename="../utilities/p2p.cs" />
+    <File filename="../utilities/polygon.cs" />
+    <File filename="../core/atoms/atom.cs" />
+    <File filename="../core/nodes/node.cs" />
+    <File filename="../core/agents/agentSearch.cs" />
+    <File filename="../core/links/link.cs" />
+    <File filename="../core/agents/agentActivationSpreading.cs" />
+    <File filename="../core/agents/agent.cs" />
+    <File filename="../core/arbiters/agentArbiter.cs" />
+    <File filename="../core/agents/agentAssociativeLearning.cs" />
+    <File filename="../personality/links/affect.cs" />
+    <File filename="../personality/links/ownership.cs" />
+    <File filename="../personality/links/relationship.cs" />
+    <File filename="../personality/nodes/location.cs" />
+    <File filename="../personality/nodes/profession.cs" />
+    <File filename="../core/truthvalues/truthvalue.cs" />
+    <File filename="../core/collections/atomCollection.cs" />
+    <File filename="../core/collections/atomMatrix.cs" />
+    <File filename="../core/tasks/task.cs" />
+    <File filename="../core/tasks/taskMaster.cs" />
+    <File filename="../core/tasks/taskStep.cs" />
+    <File filename="../personality/events/societyevent.cs" />
+    <File filename="../core/nodes/nodeTemporal.cs" />
+    <File filename="../core/eventTemporal.cs" />
+    <File filename="../personality/collections/society.cs" />
+    <File filename="../personality/nodes/achievement.cs" />
+    <File filename="../personality/nodes/opinion.cs" />
+    <File filename="../personality/nodes/skill.cs" />
+    <File filename="../personality/nodes/role.cs" />
+    <File filename="../core/nlp/nlpVerbs.cs" />
+    <File filename="../core/procedures/procedure.cs" />
+    <File filename="../core/interfaces/iRun.cs" />
+  </Files>
+  <Views>
+    <ViewMemento Id="MonoDevelop.Ide.Gui.Pads.ProjectPad">
+      <TreeView>
+        <Node expanded="True">
+          <Node name="cuteagi" expanded="True">
+            <Node name="agents" expanded="True">
+              <Node name="agentTests.cs" expanded="False" selected="True" />
+            </Node>
+            <Node name="arbiters" expanded="True" />
+            <Node name="atoms" expanded="True" />
+            <Node name="collections" expanded="True" />
+            <Node name="interfaces" expanded="True" />
+            <Node name="links" expanded="True" />
+            <Node name="nlp" expanded="True" />
+            <Node name="nodes" expanded="True" />
+            <Node name="procedures" expanded="True" />
+            <Node name="tasks" expanded="True" />
+            <Node name="truthvalues" expanded="True" />
+          </Node>
+          <Node name="personaGUI" expanded="True" />
+          <Node name="personality" expanded="True">
+            <Node name="collections" expanded="True" />
+            <Node name="events" expanded="True" />
+            <Node name="nodes" expanded="True" />
+          </Node>
+        </Node>
+      </TreeView>
+    </ViewMemento>
+    <ViewMemento Id="MonoDevelop.Ide.Gui.Pads.ClassPad">
+      <TreeView>
+        <Node expanded="True" />
+      </TreeView>
+    </ViewMemento>
+    <ViewMemento Id="MonoQuery.DatabasePad">
+      <TreeView>
+        <Node expanded="False" />
+      </TreeView>
+    </ViewMemento>
+    <ViewMemento Id="MonoDevelop.NUnit.TestPad">
+      <TreeView>
+        <Node expanded="True" />
+      </TreeView>
+    </ViewMemento>
+  </Views>
+  <Properties>
+    <Properties>
+      <Property key="ActiveWindow" value="/home/motters/develop/cuteagi/core/agents/agentTests.cs" />
+      <Property key="ActiveConfiguration" value="Debug" />
+    </Properties>
+  </Properties>
+</UserCombinePreferences>
